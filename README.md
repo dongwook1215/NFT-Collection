@@ -1,4 +1,4 @@
-# HashLips를 이용한 NFT Collection 100개 이상 만들
+# HashLips를 이용한 NFT Collection 100개 이상 만들기 
 > node index.js 
 
 NFT Collection 만들기
